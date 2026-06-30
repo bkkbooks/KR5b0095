@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0095/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0095/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶五帝醮祭招真玉訣
+  date: '2015-08-28 23:49:22.064058'
+  source:
+    repository: kanripo
+    path: KR5b0095
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0095_000-ZTDZ.yaml, hash: 'sha256:406370f896ef3f4890ee814facc1a6d100f5ac764c88ca26d0f74b441a6f35e0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0095_000-ZTDZ.markers.yaml, hash: 'sha256:256df78511cf37d8dd788c05d6bbd1decd4c9d9738204fa0f4d21c407f18052b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0095_SJB_000-060567c
+    span:
+    - body
+    - 0
+    - 1639
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:683dd0210b3c02ce9a5120040e068718246da358569c18fe06f0e4dfd829ebd4
